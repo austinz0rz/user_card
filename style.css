@@ -75,3 +75,7 @@ p {
     font-size: 9pt;
     position: relative; bottom: 4px;
 }
+
+.para {
+    position: relative; top: 5px;
+}
